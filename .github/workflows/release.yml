@@ -1,4 +1,4 @@
-# Builds signed APKs and  publishes a GitHub release when a vMAJOR.MINOR.PATCH tag is pushed.
+# Builds signed APKs and publishes a GitHub release when a vMAJOR.MINOR.PATCH tag is pushed.
 # See docs/release.md for the secrets and how to cut a release.
 name: Release
 
